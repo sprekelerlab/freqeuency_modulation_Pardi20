@@ -1,4 +1,4 @@
-# frequency_modulation_NDNF
+# Frequency modulation by local NDNF interneurons
 
 Computational model for the frequency modulation of HO-MG afferents to by local L1 NDNF interneurons.
 
