@@ -4,5 +4,3 @@ Computational model for the frequency modulation of HO-MG afferents to by local 
 
 Author: Laura Bella Naumann   
 in collaboration with: Belen Pardi, Henning Sprekeler and Johannes Letzkus
-
-Note: Code will be available after publication of the project.
